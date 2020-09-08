@@ -60,7 +60,8 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-.retail-image {vertical-align: middle;
+.retail-image {margin-left: auto;
+    Margin-right: auto;
     border-style: none;
 }
 
